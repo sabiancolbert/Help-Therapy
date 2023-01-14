@@ -1,0 +1,52 @@
+/*********/
+/* HTML */
+/*********/
+
+body {
+   font-family:comic-sans;
+}
+
+
+
+/*********/
+/* Menu */
+/*********/
+
+#menuDiv{
+  width:100%;
+}
+
+label{
+  font-size:00;
+  border-radius:00;
+  border-bottom:3px solid #101099;
+}
+
+
+
+/***********/
+/* Header */
+/***********/
+
+#headerDiv{
+  margin:auto;
+  border-radius:00;
+  border-bottom:3px solid #101099;
+}
+
+
+
+/**************/
+/* Description*/
+/**************/
+
+#description {
+  width:100%;
+  padding:2%;
+}
+
+
+
+/********/
+/* Body */
+/********/
